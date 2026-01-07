@@ -1,6 +1,9 @@
 # 💫 About Me:
-Results-driven IT Engineer with hands-on experience in IT support and network configuration . Skilled in<br>diagnosing and resolving hardware/software issues, configuring VLANs, and managing infrastructure using tools AWS. I am passionate about delivering<br>scalable and secure systems.<br>Certified in Cisco CCNA, HCIA-Security, and Network & Information Security, with a strong foundation in computer networks and<br>cybersecurity practices. Developed an AI-enhanced career guidance platform featuring role-based access, curriculum management, and<br>intelligent CV analysis.<br>Thrives in fast-paced, collaborative environments, with a clear focus on continuous learning and contributing to impactful tech solutions.<br>Actively seeking opportunities to grow in network engineering, system administration, or backend development roles.
-
+Results-driven Network Engineer and Computer Science graduate from Misr University for Science and
+Technology, with hands-on experience in network configuration, VLANs, routing fundamentals, and IT support.
+Certified in CCNA, HCIA-Security, and Network & Information Security, with a strong foundation in networking
+and cyber security principles. Currently studying AWS Cloud Practitioner to expand knowledge in cloud
+technologies. Seeking opportunities in network engineering roles
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amrosama3162) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/184y9PS3Gk/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amr_osama.official?igsh=MWQ0b3F4YWR0NzFmZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amr-osama-55606023b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrkhafagy2003@gmail.com) 
